@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(136, 136, 60);
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size:40px;
+    font-family: "Lemon", serif;
+  font-weight:bolder;
+  font-style: normal;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    
+}
